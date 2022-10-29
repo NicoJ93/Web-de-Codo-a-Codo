@@ -1,0 +1,62 @@
+.nav-style {
+    background-color: #353a40;
+}
+
+.brightness-image{
+    filter: brightness(50%);
+}
+
+.button-one {
+    font-weight: bold;
+    color: black;
+    padding: 5px 10px ;
+    background-color: #ffc107;
+}
+
+.button-two {
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: #35b4ce;
+} 
+
+.button-three {
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: #84898f;
+}
+
+.button-four {
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: #dc3545;
+}
+
+.border-style {
+    border-right: white 1px solid;
+}
+.text-colour {
+    color: white;
+}
+
+.underlined{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.button-send {
+    background-color: #83cf60;
+    border: none;
+}
+.second-text{
+    color: gray;
+}
+
+.footerColour {
+    background: -webkit-linear-gradient(left, #1b3743, #1d5271);
+}
+
+@media (max-width: 750px) {
+    .scaleFont {
+        font-size: 2vw;
+    }
+}
